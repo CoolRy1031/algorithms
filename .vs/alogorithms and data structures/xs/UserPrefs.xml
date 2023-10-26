@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{B130CB85-0ACD-444A-9A4D-019D274882FB}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.alogorithms_220and_220data_220structures PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="alogorithms and data structures/Program.cs">
+    <Files>
+      <File FileName="../alogorithms and data structures.code-workspace" Line="1" Column="1" />
+      <File FileName="alogorithms and data structures/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="alogorithms and data structures" expanded="True">
+            <Node name="alogorithms and data structures" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = ContactManagerTests
+build_property.ProjectDir = /Users/thatguy/Downloads/algorithms-data-structures-part-one/source/ContactManager/ContactManagerTests/
